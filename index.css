@@ -1,0 +1,25 @@
+h1 {
+    color: lightgreen;
+}
+body {
+    background-color: darkgreen;
+}
+p {
+    color: black;
+}
+a {
+   color: lightgreen;
+}
+button {
+    background-color: black;
+    color: green;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: 10s;
+}
+
+button:hover {
+    background-color: black;
+    color: black;
+}
